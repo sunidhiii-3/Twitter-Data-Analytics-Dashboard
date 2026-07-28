@@ -175,6 +175,10 @@ Applied filters:
 
 The complete dashboard screenshots and detailed explanations are included in the project report (Twitter Data Analytics Dashboard PDF) available in this repository.
 
+
+<img width="2674" height="1498" alt="Dashboard" src="https://github.com/user-attachments/assets/41ed1242-b90f-4765-a558-dede73bb73e0" />
+
+
 ---
 
 # 💡 Skills Demonstrated
